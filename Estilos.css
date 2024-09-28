@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+h1 {
+    color: blueviolet;
+    text-align: center; 
+}
+h3 {
+    color: chartreuse;
+    text-align: center;
+}
+h6 {
+    color: darkblue;
+    text-align: center;
+}
+table {
+    width: 70%; 
+    border-collapse: collapse;
+    margin: 20px auto; 
+}
+th, td {
+    border: 2px solid darkblue;
+    padding: 8px;
+    text-align: center; 
+}
+th {
+    background-color: blueviolet; 
+    color: white; 
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+tr:hover {
+    background-color: lightblue; 
+}

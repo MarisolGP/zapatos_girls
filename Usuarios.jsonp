@@ -1,0 +1,38 @@
+misdatos([
+	{
+		"Folio":1,
+		"Descripcion": "Zapatilla",
+		"Talla":23,
+		"precio":899,
+	},
+	{
+		"Folio":2,
+		"Descripcion": "Francesitas",
+		"Talla":24,
+		"precio":450,
+	},
+	{
+		"Folio":3,
+		"Descripcion": "Merceditas",
+		"Talla":24,
+		"precio":729,
+	},
+	{
+		"Folio":4,
+		"Descripcion": "Peep toes",
+		"Talla":23,
+		"precio":899,
+	},
+	{
+		"Folio":5,
+		"Descripcion": "Ballarinas",
+		"Talla":24,
+		"precio":450,
+	},
+	{
+		"Folio":6,
+		"Descripcion": "Mules",
+		"Talla":24,
+		"precio":729,
+	},
+])
